@@ -14,5 +14,5 @@ This toolbox works on MATLAB 2014a and higher, including Windows (8, 10 and Serv
 If you use these data, please cite our article:                                                                                                                                    
   Ji, G.-J., et al., Low-frequency blood oxygen level-dependent fluctuations in the brain white matter: more than just noise. Science Bulletin, 2017, 62, 656–657.                 
   Li, J., et al., A neuromarker of individual general fluid intelligence from the white-matter functional connectome. Transl Psychiatry, 2020a, 10(1): 147.                         
-  Li, J., et al., White-matter functional topology: a neuromarker for classification and prediction in unmedicated depression. Transl Psychiatry, 2020b 10(1): 365.                 
+  Li, J., et al., White-matter functional topology: a neuromarker for classification and prediction in unmedicated depression. Transl Psychiatry, 2020b, 10(1): 365.               
   Li, J., et al., Exploring the functional connectome in white matter. Hum Brain Mapp, 2019, 40, 4331–4344. 
