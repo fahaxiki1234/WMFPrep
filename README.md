@@ -2,8 +2,8 @@
 WMFPrep is a toolbox for functional magnetic resonance imaging preprocessing (fMRI) within brain white-matter (WM), which analysis brain WM function in an easy, flexible and quick manner.
 
 # Software dependencies
-Statistical Parametric Mapping 12 (SPM, http://www.fil.ion.ucl.ac.uk/spm/);
-Resting-State fMRI Data Analysis Toolkit (RESTplus, http://www.restfMRI.net/forum/restplus). 
+Statistical Parametric Mapping 12 (SPM, http://www.fil.ion.ucl.ac.uk/spm/);                                                                                                         
+Resting-State fMRI Data Analysis Toolkit (RESTplus, http://www.restfMRI.net/forum/restplus).                                                                                       
 This toolbox works on MATLAB 2014a and higher, including Windows (8, 10 and Server versions), and Linux (Ubuntu and CentOS) in 64-bit versions.
 
 # Citing this resource
