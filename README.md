@@ -1,6 +1,9 @@
 # WMFPrep
-  WMFPrep is a toolbox for functional magnetic resonance imaging preprocessing (fMRI) within brain white-matter (WM), which explore brain WM function in an easy, flexible and quick manner.                                                                                                                                                                       
-  The is a companion to manuscript entitled "Transcriptomic and macroscopic architecture of intersubject functional variabilities in human brain white-matter".
+Brain white-matter (WM) functional information have recently been explored using functional magnetic resonance imaging preprocessing (fMRI) during resting-state. WMFPrep is a
+MATLAB toolbox, with an easy, flexible and quick manner, for functional preprocessing withinWM. Add WMFPrep directory to MATLAB's path and enter "WMFPrep" in the command window of
+MATLAB to enjoy it. 
+                                                                                                                                                               
+The is a companion to manuscript entitled "Transcriptomic and macroscopic architecture of intersubject functional variabilities in human brain white-matter".
 
 # Software dependencies
 Statistical Parametric Mapping 12 (SPM, http://www.fil.ion.ucl.ac.uk/spm/);                                                                                                         
