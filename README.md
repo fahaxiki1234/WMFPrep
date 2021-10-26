@@ -1,5 +1,7 @@
 # WMFPrep
-WMFPrep is a toolbox for functional magnetic resonance imaging preprocessing (fMRI) within brain white-matter (WM), which analysis brain WM function in an easy, flexible and quick manner.
+WMFPrep is a toolbox for functional magnetic resonance imaging preprocessing (fMRI) within brain white-matter (WM), which explore brain WM function in an easy, flexible and quick
+manner.                                                                                                                                                                             
+The is a companion to manuscript entitled "Transcriptomic and macroscopic architecture of intersubject functional variabilities in human brain white-matter".
 
 # Software dependencies
 Statistical Parametric Mapping 12 (SPM, http://www.fil.ion.ucl.ac.uk/spm/);                                                                                                         
