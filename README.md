@@ -7,7 +7,8 @@ The is a companion to manuscript entitled "Transcriptomic and macroscopic archit
 
 # Software dependencies
 Statistical Parametric Mapping 12 (SPM, http://www.fil.ion.ucl.ac.uk/spm/);                                                                                                         
-Resting-State fMRI Data Analysis Toolkit (RESTplus, http://www.restfMRI.net/forum/restplus).                                                                                       
+Resting-State fMRI Data Analysis Toolkit (RESTplus, http://www.restfMRI.net/forum/restplus).  
+Uniform parcellate: Parcellate the group white-matter mask into 2n regions. The size of the regions was almost equal. The code is obtained from previous study by Zalesky, A., et al., Neuroimage, 2010, 50: 970-983.                                                                                                                                                 
 This toolbox works on MATLAB 2014a and higher, including Windows (8, 10 and Server versions), and Linux (Ubuntu and CentOS) in 64-bit versions.
 
 # Citing this resource
